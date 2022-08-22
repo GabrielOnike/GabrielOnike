@@ -1,4 +1,4 @@
-### Hi there I'm Gabriel Onike👋
+### Hi there, I'm Gabriel Onike👋
 ### To find out more about me, visit my [Website](https://www.ngonike.dev)
 <!--
 **GabrielOnike/GabrielOnike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
