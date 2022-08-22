@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel Onike👋
 ### To find out more about me, visit my [Website](https://www.ngonike.dev)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielonike&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielonike&count_private=true&langs_count=10)
 
 <!--
 **GabrielOnike/GabrielOnike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
